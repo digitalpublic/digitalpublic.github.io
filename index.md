@@ -1,11 +1,8 @@
 ---
 layout: front
 permalink: /
+title: ""
 ---
-
-
-
-
 ## Get in touch
 
 <form action="https://formspree.io/keith.porcaro@gmail.com"
