@@ -1,7 +1,6 @@
 ---
 layout: front
 permalink: /
-title: ""
 ---
 
 
