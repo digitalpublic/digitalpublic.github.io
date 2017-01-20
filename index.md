@@ -1,7 +1,7 @@
 ---
 layout: front
 permalink: /
-title: "Introducing the <b>Digital Civic Trust</b>. A better way to protect the data that matters most."
+title: ""
 ---
 
 
