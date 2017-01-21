@@ -1,9 +1,9 @@
 ---
 layout: front
 permalink: /
-title: ""
+title: "Introducing Digital Public: **a transition plan for open data and civic tech**."
 ---
-Digital Public is a transition plan for open data and civic tech. The world’s first digital civic trustee, Digital Public stewards data and code in the public’s interest, protected by a legal trust. 
+The world’s first digital civic trustee, Digital Public stewards data and code in the public’s interest, protected by a legal trust. 
 
 Trusts are important because they ensure that no matter the steward, they have a fiduciary duty to keep their promises, protect the trust, and serve the public’s interest. It also means that if the Digital Public—or any trustee—goes under, its successor has to uphold the same promises and public interest. 
 
