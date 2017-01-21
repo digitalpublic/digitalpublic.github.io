@@ -1,7 +1,7 @@
 ---
 layout: front
 permalink: /
-title: "Introducing Digital Public: <b>a transition plan for open data and civic tech</b>."
+title: "Introducing <b>Digital Public</b>: a transition plan for open data and civic tech."
 ---
 The world’s first digital civic trustee, Digital Public stewards data and code in the public’s interest, protected by a legal trust. 
 
