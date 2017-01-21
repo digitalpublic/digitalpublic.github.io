@@ -18,12 +18,13 @@ We start today. We’re working with a network of advocates, technologists, arch
       method="POST">
   <div class="row">
     <div class="six columns">
-      <label for="exampleEmailInput">Your email</label>
-      <input class="u-full-width" type="email" name="_replyto" placeholder="test@mailbox.com" id="email">
+      <label for="email">Your email</label>
+      <input class="u-full-width" type="email" name="_replyto" id="email">
     </div>
     
   </div>
-  <label for="exampleMessage">Message</label>
+  <label for="message">Message</label>
   <textarea class="u-full-width" name="message" id="message"></textarea>
+  <input type="text" name="_gotcha" style="display:none" />
   <input class="button-primary" type="submit" value="Submit">
 </form>
