@@ -1,30 +1,64 @@
 ---
-layout: front
-permalink: /
-title: "Digital Public: a transition plan for open data and civic tech."
+layout: default
 ---
-The world’s first digital civic trustee, Digital Public stewards data and code in the public’s interest, protected by a legal trust. 
-
-Trusts are important because they ensure that no matter the steward, they have a fiduciary duty to keep their promises, protect the trust, and serve the public’s interest. It also means that if the Digital Public—or any trustee—goes under, its successor has to uphold the same promises and public interest. 
-
-This feature is unique to trusts: neither companies nor governments preserve the public’s interest in data in the same, permanent way. Companies get bought or go under. Governments change administrations and priorities. When this happens, the people who relied on government or corporate promises get left behind. But trusts are one of the world’s oldest and proven ways to ensure good governance of public assets. Digital civic trusts are designed to build open governance of the data and code that our public institutions and services increasingly rely on. 
-
-We start today. We’re working with a network of advocates, technologists, archivists, and users to support the upkeep and maintenance of the foundations of our digital public spaces. Our first project is to support the organizations archiving, hosting, and relying on the US Government data taken down by the incoming administration. Our hope is that by focusing on the users and demand for data, we can begin to prioritize—and maybe even revive—the continuing production and maintenance of datasets that underpin our democracy. 
 
 
-## Get in touch
+## What we do
 
-<form action="https://formspree.io/keith.porcaro+trusts@gmail.com"
-      method="POST">
-  <div class="row">
-    <div class="six columns">
-      <label for="email">Your email</label>
-      <input class="u-full-width" type="email" name="_replyto" id="email">
+Digital Public is a public interest digital governance firm.
+
+* We **research and develop** new participatory models to govern digital assets for public good. 
+* We **help communities, governments, and foundations** build tools to better govern their digital  assets.
+* We **maintain a platform** to help everyone govern what matters most to them.
+
+To work with us, [send us an email](mailto:hello@digitalpublic.io). We'll be posting an open call for pilots shortly. 
+
+
+
+## Who we are
+
+<section class="cf w-100 pa2-ns">
+  <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url(/images/sean.jpg);" 
+      class="db bg-center cover aspect-ratio--object" />
     </div>
-    
-  </div>
-  <label for="message">Message</label>
-  <textarea class="u-full-width" name="message" id="message"></textarea>
-  <input type="text" name="_gotcha" style="display:none" />
-  <input class="button-primary" type="submit" value="Submit">
-</form>
+    <a href="mailto:sean@digitalpublic.io" class="ph2 ph0-ns pb3 link db">
+      <h3 class="f5 f4-ns mb0 black-90">Sean McDonald</h3> </a>
+      <p class="f6 f5 fw4 mt2 black-60">CEO, FrontlineSMS. <br>Fellow, Stanford Digital Civil Society Lab. <br>JD, American University.</p>
+   
+  </article>
+  <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url(/images/keith.jpg);" 
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+    <a href="mailto:keith@digitalpublic.io" class="ph2 ph0-ns pb3 link db">
+      <h3 class="f5 f4-ns mb0 black-90">Keith Porcaro</h3> </a>
+      <p class="f6 f5 fw4 mt2 black-60">CTO/General Counsel, SIMLab. <br>JD, Duke University.</p>
+   
+  </article>
+</section>
+
+
+
+## Our partners
+
+![PACS](/images/pacs.png)
+
+## The Digital Public Primer
+
+* [Toward (a) Civic Trust](https://medium.com/@McDapper/toward-a-civic-trust-e3265768dfe6#.93x5b2nve) - on the why, for public institutions.
+* [In Trust, Data](http://blog.keithporcaro.com/post/102757732441/in-trust-data-or-why-ello-is-answering-the) - more on the why, for digital platforms.
+* [The Civic Trust](https://medium.com/@McDapper/the-civic-trust-e674f9aeab43#.bd4kflcvk) - the what and how.
+* [The Open (Data) Market](https://medium.com/@McDapper/the-open-data-market-92f9557fd63d#.3og9z3ctm) - on why open licensing isn't enough.
+* [Data Law's Radioactive Decay](https://medium.com/@McDapper/data-laws-radioactive-decay-f9f042122d93#.tssj7mqmm) - on why public regulation of data privacy isn't enough.
+* [WhatsApp, Trust, and Trusts](https://medium.com/@McDapper/whatsapp-trust-trusts-980ec18d71b2#.q7k3xi165) - on the role of trusts in corporate governance, and the implications of their absence.
+* [This one weird trick prevents cancer research from going up in smoke](https://medium.com/@keithporcaro/this-one-weird-trick-prevents-cancer-research-from-going-up-in-smoke-b592ac2d2568#.fwznmaadk) - on the role of trusts in protecting research/
+* [Facebook, Gawker, and Governing Truth](https://medium.com/@McDapper/gawker-facebook-governing-truth-7ef747d9841e#.blko6o976) - on the cost and implications of not having trusts in news.
+
+
+## Contact Us
+
+[hello@digitalpublic.io](mailto:hello@digitalpublic.io)
+
