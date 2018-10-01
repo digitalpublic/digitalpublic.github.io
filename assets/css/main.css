@@ -4016,6 +4016,10 @@ input, select, textarea {
 				padding: 0;
 				padding-left: 1em;
 			}
+			#footer .credit {
+				color: rgba(255, 255, 255, 0.35);
+				font-size: 0.7em;
+			}
 
 				#footer .inner .copyright li:first-child {
 					border-left: 0;
